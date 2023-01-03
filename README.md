@@ -1,5 +1,11 @@
 ### Hi there 👋
-
+Name : Fawwaz Yasirah
+Skill:
+-basic python
+-basic golang
+-basic c++
+-photoshop
+-video editing
 <!--
 **pootism69/pootism69** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
