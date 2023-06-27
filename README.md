@@ -5,7 +5,7 @@ Skill:
 -basic golang
 -basic c++
 -photoshop
--video editing
+-basic c#
 <!--
 **pootism69/pootism69** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
